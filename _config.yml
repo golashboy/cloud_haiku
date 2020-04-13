@@ -4,4 +4,4 @@ collections:
     output: true
     permalink: /haikus/:name
 
-  uses: abinoda/assignee-to-reviewer-action@v1.0.4
+  
